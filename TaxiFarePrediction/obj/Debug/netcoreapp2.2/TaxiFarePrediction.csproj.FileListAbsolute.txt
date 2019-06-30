@@ -6,3 +6,8 @@ E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePred
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.csproj.CoreCompileInputs.cache
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.AssemblyInfoInputs.cache
 E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-test.csv
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-train.csv
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.pdb
